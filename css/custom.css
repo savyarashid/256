@@ -1,0 +1,66 @@
+body {
+	padding-top: 50px;
+	color: #959595;
+	}
+	
+h1, h2, h3, h4, h5, h6 {
+	color:#959595;
+	}
+
+	
+.feature {
+	background-image: url(bilder/hg.jpg); 
+	background-repeat: repeat-x;
+	color: black;
+	background: rgb(205, 50, 192) linear-gradient(to bottom, rgb(163, 87, 144), rgb(204, 98, 163));
+	color: black;
+	
+	}
+
+#feature-carousel {
+	min-height: 250px;
+	}
+	
+.article-intro {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+    background-image: url(bilder/hg.jpg);
+    color: black;
+}
+    
+.footer-blurb-item {
+    padding: 30px;
+    }
+ 
+.small-print {
+	background-color: #fff;
+	padding: 30px 0;
+}
+
+.feature,
+.page-intro,
+.article-intro,
+.footer-blurb,
+.small-print {
+	text-align: left;
+	}
+
+	p {
+		font-size: 12pt;
+		color:black;
+		
+	}
+
+	h2, h3, h4, h5,h6 {
+		color:black;
+	}
+
+	p::first-letter {
+		font-size: 2.8em;
+		color: black;
+	}
+
+
